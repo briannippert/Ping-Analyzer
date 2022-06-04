@@ -7,3 +7,14 @@ C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment1\Assignment1\obj\Debu
 C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.Cache
 C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment1\Assignment1\obj\Debug\Assignment1.exe
 C:\Users\Brian\Box Sync\_School\Senior\1\IT 725\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Brian\Documents\GitHub\Ping-Analyzer\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Brian\Documents\GitHub\Ping-Analyzer\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Brian\Documents\GitHub\Ping-Analyzer\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Brian\Documents\GitHub\Ping-Analyzer\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\Brian\Documents\GitHub\Ping-Analyzer\Assignment1\obj\Debug\Assignment1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brian\Documents\GitHub\Ping-Analyzer\Assignment1\obj\Debug\Assignment1.Form1.resources
+C:\Users\Brian\Documents\GitHub\Ping-Analyzer\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\Brian\Documents\GitHub\Ping-Analyzer\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+C:\Users\Brian\Documents\GitHub\Ping-Analyzer\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Brian\Documents\GitHub\Ping-Analyzer\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Brian\Documents\GitHub\Ping-Analyzer\Assignment1\obj\Debug\Assignment1.pdb

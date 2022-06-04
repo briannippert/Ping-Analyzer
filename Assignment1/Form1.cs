@@ -59,7 +59,7 @@ namespace Assignment1
 
         private void extractData(string input)
         {
-            Regex r1 = new Regex(@"time=(.*) ms");
+            Regex r1 = new Regex(@"time=(.*)ms");
             r1.Matches(input);
             foreach (Match m in r1.Matches(input))
             {
